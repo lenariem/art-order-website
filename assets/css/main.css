@@ -518,7 +518,7 @@ h4 {
   border: none;
   display: block;
   font-size: 1.9rem;
-  padding: 2rem 0;
+  padding: 10px;
 }
 .calc .promocode {
   opacity: 0.6;
@@ -1006,6 +1006,9 @@ h4 {
   padding-bottom: 2.5rem;
   font-family: "Circe Extra Bold", sans-serif;
   font-size: 1.6rem;
+  a {
+    color: #A628B2;
+  }
 }
 .footer td {
   padding: 0.5rem;
